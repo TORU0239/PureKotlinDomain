@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "PureKotlinDomain"
 include ':app'
 include ':domain'
+include ':usecase'
+include ':feature'
